@@ -1,0 +1,1 @@
+This repo will track the design and improvement of a simple snake game.
