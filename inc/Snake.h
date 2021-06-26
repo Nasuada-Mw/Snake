@@ -16,3 +16,5 @@ class Snake
     //Snake_mvmt(), handles movement of the snake.
 
 };
+
+#endif
